@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/rajanamar999" target="blank"><img src="https://img.shields.io/twitter/follow/rajanamar999?logo=twitter&style=for-the-badge" alt="rajanamar999" /></a> </p>
 
-- 🔭 I’m currently working on [Recipe Project](https://foodyrecipeweb.netlify.app/home.html)
+- 🔭 I’m currently working on [My First React Project]
 
 - 🌱 I’m currently learning **Node.js, React, JavaScript, HTML, CSS**
 
